@@ -7,3 +7,4 @@ git pull # Marge changes from remote repos
 # Branches commands
 git branch -m old-branch # create new branch
 git switch # switch to new branch
+
